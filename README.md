@@ -1,6 +1,8 @@
 # pyAlarm
 An alarm application built with Python tkinter
 
+!!! START gui.py !!!
+
 You have to select an Alarm Sound firstly. If you want to add your own sound, you have to add the mp3 file in /alarms direction.
 Click on the alarm name from the list then click "Select Alarm"
 Then type the hour as hh:mm format (Example: 03:45)
